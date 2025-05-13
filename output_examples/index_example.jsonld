@@ -1,0 +1,118 @@
+{
+  "@context": [
+    "https://w3id.org/skg-if/context/skg-if.json",
+    {
+      "@base": "https://w3id.org/skg-if/sandbox/oc/",
+      "skg": "https://w3id.org/skg-if/sandbox/oc/"
+    }
+  ],
+  "@graph": [
+    {
+      "local_identifier": "https://w3id.org/oc/index/br/06101801781",
+      "identifiers": [
+        {
+          "scheme": "omid",
+          "value": "br/06101801781"
+        },
+        {
+          "scheme": "doi",
+          "value": "10.7717/peerj-cs.421"
+        },
+        {
+          "scheme": "openalex",
+          "value": "W3134956838"
+        },
+        {
+          "scheme": "pmid",
+          "value": "33817056"
+        }
+      ],
+      "manifestations": [
+        {
+          "dates": {
+            "publication": "2021-03-10T00:00:00+00:00"
+          }
+        }
+      ],
+      "related_products": {
+        "cites": [
+          "https://w3id.org/oc/index/br/06101802023",
+          "https://w3id.org/oc/index/br/061202127823",
+          "https://w3id.org/oc/index/br/061202127742"
+        ]
+      }
+    },
+    {
+      "local_identifier": "https://w3id.org/oc/index/br/06101802023",
+      "identifiers": [
+        {
+          "scheme": "omid",
+          "value": "br/06101802023"
+        },
+        {
+          "scheme": "doi",
+          "value": "10.7717/peerj-cs.163"
+        },
+        {
+          "scheme": "pmid",
+          "value": "33816816"
+        },
+        {
+          "scheme": "doi",
+          "value": "10.7287/peerj.preprints.26727v1"
+        }
+      ],
+      "manifestations": [
+        {
+          "dates": {
+            "publication": "2018-09-19T00:00:00+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "local_identifier": "https://w3id.org/oc/index/br/061202127823",
+      "identifiers": [
+        {
+          "scheme": "omid",
+          "value": "br/061202127823"
+        },
+        {
+          "scheme": "doi",
+          "value": "10.1007/s11192-020-03690-4"
+        },
+        {
+          "scheme": "pmid",
+          "value": "32981987"
+        }
+      ],
+      "manifestations": [
+        {
+          "dates": {
+            "publication": "2020-09-23T00:00:00+00:00"
+          }
+        }
+      ]
+    },
+    {
+      "local_identifier": "https://w3id.org/oc/index/br/061202127742",
+      "identifiers": [
+        {
+          "scheme": "omid",
+          "value": "br/061202127742"
+        },
+        {
+          "scheme": "doi",
+          "value": "10.1007/s11192-020-03792-z"
+        }
+      ],
+      "manifestations": [
+        {
+          "dates": {
+            "publication": "2020-12-04T00:00:00+00:00"
+          }
+        }
+      ]
+    }
+  ]
+}
